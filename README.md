@@ -2,6 +2,7 @@
 Interactive AI Avatar Using Basic Natural Language Processing (NLP) Techniques through Speech Recognition and Text Processing
 
 ==============================================
+
 Interactive AI Avatar Using Basic Natural Language Processing (NLP)
 This project features an interactive AI avatar that leverages basic Natural Language Processing (NLP) techniques to interact with users through speech recognition and text processing. The avatar is built using Python with Pygame for graphical display, pyttsx3 for speech synthesis, and speech_recognition for speech-to-text conversion.
 
